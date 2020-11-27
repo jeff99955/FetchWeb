@@ -1,0 +1,11 @@
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.exe
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.deps.json
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.runtimeconfig.json
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.runtimeconfig.dev.json
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.dll
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\bin\Debug\netcoreapp3.0\FetchWeb.pdb
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\obj\Debug\netcoreapp3.0\FetchWeb.csprojAssemblyReference.cache
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\obj\Debug\netcoreapp3.0\FetchWeb.AssemblyInfoInputs.cache
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\obj\Debug\netcoreapp3.0\FetchWeb.AssemblyInfo.cs
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\obj\Debug\netcoreapp3.0\FetchWeb.dll
+C:\Users\kk\source\repos\FetchWeb\FetchWeb\obj\Debug\netcoreapp3.0\FetchWeb.pdb
